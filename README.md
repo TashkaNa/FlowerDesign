@@ -1,5 +1,5 @@
 # prometheus
-course project FlowerDesign
+course project FlowerDesign - мобільна і декстопна версії односторінкового сайту для продажу квіткових букетів.
 
 Курсовий проєкт в рамках курсу Prometheus: FRONTEND101 Front-end розробка
 
