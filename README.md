@@ -8,4 +8,4 @@ course project FlowerDesign - мобільна і декстопна версі�
 Посилання на Figma файл веб версії: https://www.figma.com/file/uY5y7ktDcKp37viIS4DAIN/Page_level2__web_figma?node-id=0%3A1
 Посилання на Figma файл мобільної версії: https://www.figma.com/file/6wusFTcQjMMtihDJ22Vjxd/Page_level2__mob_figma?node-id=0%3A1 
 
-Посилання на сторінку: https://tashkana.github.io/prometheus/index.html
+Посилання на сторінку: https://tashkana.github.io/FlowerDesign/
